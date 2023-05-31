@@ -1,0 +1,21 @@
+{
+  "name": "discord-raw",
+  "version": "0.0.0-a",
+  "description": "A light wrapper for the Discord API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://discord.com/Proxxa/discord-raw"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "Proxxa",
+  "license": "MIT",
+  "devDependencies": {
+    "chalk": "^5.2.0"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "name": "discord-raw",
-  "version": "0.0.0-a",
+  "version": "1.0.0",
   "description": "A light wrapper for the Discord API",
   "main": "index.js",
   "scripts": {

@@ -1,0 +1,4 @@
+*.ts
+**/*.ts
+test
+node_modules

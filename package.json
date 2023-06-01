@@ -4,7 +4,7 @@
   "description": "A light wrapper for the Discord API",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "prepare": "npx tsc"
   },
   "keywords": [
     "discord"
@@ -16,6 +16,10 @@
     "@types/node-fetch": "^2.6.4",
     "chalk": "^5.2.0",
     "typescript": "^5.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Proxxa/discord-raw"
   },
   "dependencies": {
     "@types/ws": "^8.5.4",

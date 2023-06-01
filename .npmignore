@@ -2,3 +2,4 @@
 **/*.ts
 test
 node_modules
+.vscode
